@@ -1,2 +1,4 @@
 Another file to test reverting before staging
 New Line
+Newest line
+Yet another new line
