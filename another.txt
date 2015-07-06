@@ -1,1 +1,3 @@
 Another file to test reverting before staging
+Newest line in master branch
+Yet another new line
